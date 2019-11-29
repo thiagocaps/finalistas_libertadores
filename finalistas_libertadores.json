@@ -1,0 +1,779 @@
+[
+  {
+    "_id": 1,
+    "ano": 1960,
+    "campeao": "Peñarol",
+    "vice": "Olimpia",
+    "local": [
+      {
+        "pais": "Paraguai"
+      },
+      {
+        "estado": "Assunção"
+      },
+      {
+        "estadio": "Estádio de Puerto Sajonia"
+      }
+    ]
+  },
+  {
+    "_id": 2,
+    "ano": 1961,
+    "campeao": "Peñarol",
+    "vice": "Palmeiras",
+    "local": [
+      {
+        "pais": "Brasil"
+      },
+      {
+        "estado": "São Paulo"
+      },
+      {
+        "estadio": "Estádio do Pacaembu"
+      }
+    ]
+  },
+  {
+    "_id": 3,
+    "ano": 1962,
+    "campeao": "Santos",
+    "vice": "Peñarol",
+    "local": [
+      {"pais": "Uruguai"},
+        {"estado": "Montevidéu"},
+        {"estadio": "Estádio Centenário"}
+    ]
+  },
+  {
+    "_id": 4,
+    "ano": 1963,
+    "campeao": "Santos",
+    "vice": "Boca Juniors",
+    "local": [
+      {
+        "pais": "Argentina"},
+        {"estado": "Buenos Aires"},
+        {"estadio": "La Bombonera"
+      }
+    ]
+  },
+  {
+    "_id": 5,
+    "ano": 1964,
+    "campeao": "Independiente",
+    "vice": "Nacional",
+    "local": [
+      {
+        "pais": "Uruguai"},
+        {"estado": "Montevidéu"},
+        {"estadio": "Parque Central"
+      }
+    ]
+  },
+  {
+    "_id": 6,
+    "ano": 1965,
+    "campeao": "Independiente",
+    "vice": "Peñarol",
+    "local": [
+      {
+        "pais": "Uruguai"},
+        {"estado": "Montevidéu"},
+        {"estadio": "Estádio Centenário"
+      }
+    ]
+  },
+  {
+    "_id": 7,
+    "ano": 1966,
+    "campeao": "Peñarol",
+    "vice": "River Plate",
+    "local": [
+      {
+        "pais": "Argentina"},
+        {"estado": "Buenos Aires"},
+        {"estadio": "Estádio Monumental de Núñez"
+      }
+    ]
+  },
+  {
+    "_id": 8,
+    "ano": 1967,
+    "campeao": "Racing",
+    "vice": "Nacional",
+    "local": [
+      {
+        "pais": "Uruguai"},
+        {"estado": "Montevidéu"},
+        {"estadio": "Estádio Centenário"
+      }
+    ]
+  },
+  {
+    "_id": 9,
+    "ano": 1968,
+    "campeao": "Estudiantes",
+    "vice": "Palmeiras",
+    "local": [
+      {
+        "pais": "Brasil"},
+        {"estado": "São Paulo"},
+        {"estadio": "Estádio do Pacaembu"
+      }
+    ]
+  },
+  {
+    "_id": 10,
+    "ano": 1969,
+    "campeao": "Estudiantes",
+    "vice": "Nacional",
+    "local": [
+      {
+        "pais": "Uruguai"},
+        {"estado": "Montevidéu"},
+        {"estadio": "Estádio Centenário"
+      }
+    ]
+  },
+  {
+    "_id": 11,
+    "ano": 1970,
+    "campeao": "Estudiantes",
+    "vice": "Peñarol",
+    "local": [
+      {
+        "pais": "Uruguai"},
+        {"estado": "Montevidéu"},
+        {"estadio": "Estádio Centenário"
+      }
+    ]
+  },
+  {
+    "_id": 12,
+    "ano": 1971,
+    "campeao": "Nacional",
+    "vice": "Estudiantes",
+    "local": [
+      {
+        "pais": "Argentina"},
+        {"estado": "La Plata"},
+        {"estadio": "Estádio Jorge Luis Hirschi"
+      }
+    ]
+  },
+  {
+    "_id": 13,
+    "ano": 1972,
+    "campeao": "Independiente",
+    "vice": "Universitario",
+    "local": [
+      {
+        "pais": "Peru"},
+        {"estado": "Lima"},
+        {"estadio": "Estádio Nacional do Peru"
+      }
+    ]
+  },
+  {
+    "_id": 14,
+    "ano": 1973,
+    "campeao": "Independiente",
+    "vice": "Colo-Colo",
+    "local": [
+      {
+        "pais": "Chile"},
+        {"estado": "Santiago"},
+        {"estadio": "Estádio Nacional"
+      }
+    ]
+  },
+  {
+    "_id": 15,
+    "ano": 1974,
+    "campeao": "Independiente",
+    "vice": "São Paulo",
+    "local": [
+      {
+        "pais": "Brasil"},
+        {"estado": "São Paulo"},
+        {"estadio": "Estádio do Pacaembu"
+      }
+    ]
+  },
+  {
+    "_id": 16,
+    "ano": 1975,
+    "campeao": "Independiente",
+    "vice": "Unión Española",
+    "local": [
+      {
+        "pais": "Chile"},
+        {"estado": "Santiago"},
+        {"estadio": "Estadio Nacional"
+      }
+    ]
+  },
+  {
+    "_id": 17,
+    "ano": 1976,
+    "campeao": "Cruzeiro",
+    "vice": "River Plate",
+    "local": [
+      {
+        "pais": "Argentina"},
+        {"estado": "Buenos Aires"},
+        {"estadio": "Monumental de Núñez"
+      }
+    ]
+  },
+  {
+    "_id": 18,
+    "ano": 1977,
+    "campeao": "Boca Juniors",
+    "vice": "Cruzeiro",
+    "local": [
+      {
+        "pais": "Brasil"},
+        {"estado": "Belo Horizonte"},
+        {"estadio": "Mineirão"
+      }
+    ]
+  },
+  {
+    "_id": 19,
+    "ano": 1978,
+    "campeao": "Boca Juniors",
+    "vice": "Deportivo Cali",
+    "local": [
+      {
+        "pais": "Uruguai"},
+        {"estado": "Montevidéu"},
+        {"estadio": "Estádio Centenario"
+      }
+    ]
+  },
+  {
+    "_id": 20,
+    "ano": 1979,
+    "campeao": "Olimpia",
+    "vice": "Boca Juniors",
+    "local": [
+      {
+        "pais": "Argentina"},
+        {"estado": "Buenos Aires"},
+        {"estadio": "La Bombonera"
+      }
+    ]
+  },
+  {
+    "_id": 21,
+    "ano": 1980,
+    "campeao": "Nacional",
+    "vice": "Internacional",
+    "local": [
+      {
+        "pais": "Brasil"},
+        {"estado": "Porto Alegre"},
+        {"estadio": "Estádio Beira-Rio"
+      }
+    ]
+  },
+  {
+    "_id": 22,
+    "ano": 1981,
+    "campeao": "Flamengo",
+    "vice": "Cobreloa",
+    "local": [
+      {
+        "pais": "Chile"},
+        {"estado": "Santiago"},
+        {"estadio": "Estádio Nacional"
+      }
+    ]
+  },
+  {
+    "_id": 23,
+    "ano": 1982,
+    "campeao": "Peñarol",
+    "vice": "Cobreloa",
+    "local": [
+      {
+        "pais": "Chile"},
+        {"estado": "Santiago"},
+        {"estadio": "Estádio Nacional"
+      }
+    ]
+  },
+  {
+    "_id": 24,
+    "ano": 1983,
+    "campeao": "Grêmio",
+    "vice": "Peñarol",
+    "local": [
+      {
+        "pais": "Uruguai"},
+        {"estado": "Montevidéu"},
+        {"estadio": "Estádio Centenário"
+      }
+    ]
+  },
+  {
+    "_id": 25,
+    "ano": 1984,
+    "campeao": "Independiente",
+    "vice": "Grêmio",
+    "local": [
+      {
+        "pais": "Brasil"},
+        {"estado": "Porto Alegre"},
+        {"estadio": "Estádio Olímpico"
+      }
+    ]
+  },
+  {
+    "_id": 26,
+    "ano": 1985,
+    "campeao": "Argentinos Juniors",
+    "vice": "América-Col",
+    "local": [
+      {
+        "pais": "Colômbia"},
+        {"estado": "Cáli"},
+        {"estadio": "Estádio Olímpico Pascual Guerrero"
+      }
+    ]
+  },
+  {
+    "_id": 27,
+    "ano": 1986,
+    "campeao": "River Plate",
+    "vice": "América-Col",
+    "local": [
+      {
+        "pais": "Colômbia"},
+        {"estado": "Cáli"},
+        {"estadio": "Estádio Olímpico Pascual Guerrero"
+      }
+    ]
+  },
+  {
+    "_id": 28,
+    "ano": 1987,
+    "campeao": "Peñarol",
+    "vice": "América-Col",
+    "local": [
+      {
+        "pais": "Chile"},
+        {"estado": "Santiago"},
+        {"estadio": "Estádio Nacional de Chile"
+      }
+    ]
+  },
+  {
+    "_id": 29,
+    "ano": 1988,
+    "campeao": "Nacional",
+    "vice": "Newell's Old Boys",
+    "local": [
+      {
+        "pais": "Paraguai"},
+        {"estado": "Assunção"},
+        {"estadio": "Estádio Defensores del Chaco"
+      }
+    ]
+  },
+  {
+    "_id": 30,
+    "ano": 1989,
+    "campeao": "Atlético Nacional",
+    "vice": "Olimpia",
+    "local": [
+      {
+        "pais": "Equador"},
+        {"estado": "Guaiaquil"},
+        {"estadio": "Estádio Monumental Isidro Romero Carbo"
+      }
+    ]
+  },
+  {
+    "_id": 31,
+    "ano": 1990,
+    "campeao": "Olimpia",
+    "vice": "Barcelona",
+    "local": [
+      {
+        "pais": "Paraguai"},
+        {"estado": "Assunção"},
+        {"estadio": "Estádio Defensores del Chaco"
+      }
+    ]
+  },
+  {
+    "_id": 32,
+    "ano": 1991,
+    "campeao": "Colo-Colo",
+    "vice": "Olimpia",
+    "local": [
+      {
+        "pais": "Paraguai"},
+        {"estado": "Assunção"},
+        {"estadio": "Estádio Defensores del Chaco"
+      }
+    ]
+  },
+  {
+    "_id": 33,
+    "ano": 1992,
+    "campeao": "São Paulo",
+    "vice": "Newell's Old Boys",
+    "local": [
+      {
+        "pais": "Argentina"},
+        {"estado": "Rosário"},
+        {"estadio": "El Coloso del Parque"
+      }
+    ]
+  },
+  {
+    "_id": 34,
+    "ano": 1993,
+    "campeao": "São Paulo",
+    "vice": "Universidad Católica",
+    "local": [
+      {
+        "pais": "Chile"},
+        {"estado": "Santiago"},
+        {"estadio": "Estádio Nacional de Chile"
+      }
+    ]
+  },
+  {
+    "_id": 35,
+    "ano": 1994,
+    "campeao": "Vélez Sársfield",
+    "vice": "São Paulo",
+    "local": [
+      {
+        "pais": "Argentina"},
+        {"estado": "Rosário"},
+        {"estadio": "El Coloso del Parque"
+      }
+    ]
+  },
+  {
+    "_id": 36,
+    "ano": 1995,
+    "campeao": "Grêmio",
+    "vice": "Atlético Nacional",
+    "local": [
+      {
+        "pais": "Colômbia"},
+        {"estado": "Medellín"},
+        {"estadio": "Estádio Atanasio Girardot"
+      }
+    ]
+  },
+  {
+    "_id": 37,
+    "ano": 1996,
+    "campeao": "River Plate",
+    "vice": "América",
+    "local": [
+      {
+        "pais": "Colômbia"},
+        {"estado": "Medellín"},
+        {"estadio": "Estádio Atanasio Girardot"
+      }
+    ]
+  },
+  {
+    "_id": 38,
+    "ano": 1997,
+    "campeao": "Cruzeiro",
+    "vice": "Sporting Cristal",
+    "local": [
+      {
+        "pais": "Equador"},
+        {"estado": "Guaiaquil"},
+        {"estadio": "Estádio Monumental Isidro Romero Carbo"
+      }
+    ]
+  },
+  {
+    "_id": 39,
+    "ano": 1998,
+    "campeao": "Vasco da Gama",
+    "vice": "Barcelona",
+    "local": [
+      {
+        "pais": "Peru"},
+        {"estado": "Lima"},
+        {"estadio": "Estádio Nacional do Peru"
+      }
+    ]
+  },
+  {
+    "_id": 40,
+    "ano": 1999,
+    "campeao": "Palmeiras",
+    "vice": "Barcelona",
+    "local": [
+      {
+        "pais": "Colômbia"},
+        {"estado": "Cáli"},
+        {"estadio": "Estádio Olímpico Pascual Guerrero"
+      }
+    ]
+  },
+  {
+    "_id": 41,
+    "ano": 2000,
+    "campeao": "Boca Juniors",
+    "vice": "Palmeiras",
+    "local": [
+      {
+        "pais": "Brasil"},
+        {"estado": "São Paulo"},
+        {"estadio": "Estádio do Morumbi"
+      }
+    ]
+  },
+  {
+    "_id": 42,
+    "ano": 2001,
+    "campeao": "Boca Juniors",
+    "vice": "Cruz Azul",
+    "local": [
+      {
+        "pais": "México"},
+        {"estado": "Cidade do México"},
+        {"estadio": "Estádio Azteca"
+      }
+    ]
+  },
+  {
+    "_id": 43,
+    "ano": 2002,
+    "campeao": "Olimpia",
+    "vice": "São Caetano",
+    "local": [
+      {
+        "pais": "Brasil"},
+        {"estado": "São Paulo"},
+        {"estadio": "Estádio do Pacaembu"
+      }
+    ]
+  },
+  {
+    "_id": 44,
+    "ano": 2003,
+    "campeao": "Boca Juniors",
+    "vice": "Santos",
+    "local": [
+      {
+        "pais": "Brasil"},
+        {"estado": "São Paulo"},
+        {"estadio": "Estádio do Morumbi"
+      }
+    ]
+  },
+  {
+    "_id": 45,
+    "ano": 2004,
+    "campeao": "Once Caldas",
+    "vice": "Boca Juniors",
+    "local": [
+      {
+        "pais": "Argentina"},
+        {"estado": "Buenos Aires"},
+        {"estadio": "La Bombonera"
+      }
+    ]
+  },
+  {
+    "_id": 46,
+    "ano": 2005,
+    "campeao": "São Paulo",
+    "vice": "Atlético Paranaense",
+    "local": [
+      {
+        "pais": "Brasil"},
+        {"estado": "Porto Alegre"},
+        {"estadio": "Estádio Beira-Rio"
+      }
+    ]
+  },
+  {
+    "_id": 47,
+    "ano": 2006,
+    "campeao": "Internacional",
+    "vice": "São Paulo",
+    "local": [
+      {
+        "pais": "Brasil"},
+        {"estado": "São Paulo"},
+        {"estadio": "Estádio do Morumbi"
+      }
+    ]
+  },
+  {
+    "_id": 48,
+    "ano": 2007,
+    "campeao": "Boca Juniors",
+    "vice": "Grêmio",
+    "local": [
+      {
+        "pais": "Brasil"},
+        {"estado": "Porto Alegre"},
+        {"estadio": "Estádio Olímpico"
+      }
+    ]
+  },
+  {
+    "_id": 49,
+    "ano": 2008,
+    "campeao": "LDU de Quito",
+    "vice": "Fluminense",
+    "local": [
+      {
+        "pais": "Brasil"},
+        {"estado": "Belo Horizonte"},
+        {"estadio": "Mineirão"
+      }
+    ]
+  },
+  {
+    "_id": 50,
+    "ano": 2009,
+    "campeao": "Estudiantes",
+    "vice": "Cruzeiro",
+    "local": [
+      {
+        "pais": "México"},
+        {"estado": "Guadalajara"},
+        {"estadio": "Estádio Omnilife"
+      }
+    ]
+  },
+  {
+    "_id": 51,
+    "ano": 2010,
+    "campeao": "Internacional",
+    "vice": "Guadalajara",
+    "local": [
+      {
+        "pais": "Brasil"},
+        {"estado": "Belo Horizonte"},
+        {"estadio": "Mineirão"
+      }
+    ]
+  },
+  {
+    "_id": 52,
+    "ano": 2011,
+    "campeao": "Santos",
+    "vice": "Peñarol",
+    "local": [
+      {
+        "pais": "Argentina"},
+        {"estado": "Buenos Aires"},
+        {"estadio": "Estádio La Bombonera"
+      }
+    ]
+  },
+  {
+    "_id": 53,
+    "ano": 2012,
+    "campeao": "Corinthians",
+    "vice": "Boca Juniors",
+    "local": [
+      {
+        "pais": "Uruguai"},
+        {"estado": "Montevidéu"},
+        {"estadio": "Estádio Centenário"
+      }
+    ]
+  },
+  {
+    "_id": 54,
+    "ano": 2013,
+    "campeao": "Atlético-MG",
+    "vice": "Olimpia",
+    "local": [
+      {
+        "pais": "Paraguai"},
+        {"estado": "Assunção"},
+        {"estadio": "Estádio Defensores del Chaco"
+      }
+    ]
+  },
+  {
+    "_id": 55,
+    "ano": 2014,
+    "campeao": "San Lorenzo",
+    "vice": "Nacional-PAR",
+    "local": [
+      {
+        "pais": "Paraguai"},
+        {"estado": "Assunção"},
+        {"estadio": "Estádio Defensores del Chaco"
+      }
+    ]
+  },
+  {
+    "_id": 56,
+    "ano": 2015,
+    "campeao": "River Plate",
+    "vice": "Tigres-Mex",
+    "local": [
+      {
+        "pais": "México"},
+        {"estado": "San Nicolás"},
+        {"estadio": "Estádio Universitario"
+      }
+    ]
+  },
+  {
+    "_id": 57,
+    "ano": 2016,
+    "campeao": "Atlético Nacional",
+    "vice": "Independiente Del Valle-EQU",
+    "local": [
+      {
+        "pais": "Equador"},
+        {"estado": "Quito"},
+        {"estadio": "Estádio Olímpico Atahualpa"
+      }
+    ]
+  },
+  {
+    "_id": 58,
+    "ano": 2017,
+    "campeao": "Grêmio",
+    "vice": "Lanús-ARG",
+    "local": [
+      {
+        "pais": "Argentina"},
+        {"estado": "Lanús"},
+        {"estadio": "Estádio La Fortaleza"
+      }
+    ]
+  },
+  {
+    "_id": 59,
+    "ano": 2018,
+    "campeao": "River Plate",
+    "vice": "Boca Juniors",
+    "local": [
+      {
+        "pais": "Argentina"
+      },
+      {
+        "estado": "Buenos Aires"
+      },
+      {
+        "estadio": "Estádio La Bombonera"
+      }
+    ]
+  }
+]
