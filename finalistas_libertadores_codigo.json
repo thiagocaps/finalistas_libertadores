@@ -902,4 +902,28 @@ SELECT * FROM finalistas WHERE campeao = "Flamengo" AND vice = "River Plate";
 
 db.finalistas.find().sort({ano: 1})
 
+---------------------------
+--- JUNTANDO INFORMAÇÕES DE DUAS COLEÇÕES (JOIN)
+---------------------------
 
+db.placar.insertOne(
+  {
+    _id:1,
+    golscampeao:2,
+    golsvice:1,
+    vencedor: "Flamengo",
+  }
+)
+
+
+db.finalistas.aggregate([
+   {
+     $lookup:
+       {
+         from: "placar",
+         localField: "campeao",
+         foreignField: "vencedor",
+         as: "placarFinal"
+       }
+  }
+])
