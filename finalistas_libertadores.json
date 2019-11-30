@@ -1,3 +1,4 @@
+db.finalistas.insertMany(
 [
   {
     "_id": 1,
@@ -777,3 +778,4 @@
     ]
   }
 ]
+)
