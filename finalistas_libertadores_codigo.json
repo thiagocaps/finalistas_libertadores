@@ -891,7 +891,7 @@ SELECT * FROM finalistas WHERE vice = "Corinthians" OR ano > 2015
 db.finalistas.updateOne({_id:60}, {$set:{ano:2019}})
 db.finalistas.updateOne({$and:[{campeao:"Flamengo"}, {vice:"River Plate"}]},{$set:{ano:2019}})
 
-SELECT * FROM finalistas WHERE campeao = "Flamengo" AND vice = "River Plate";
+UPDATE FINALISTA SET campeao = "Flamengo", vice = "River Plate";
 
 
 ----------------------------
